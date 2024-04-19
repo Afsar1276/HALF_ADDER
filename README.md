@@ -4,6 +4,7 @@ To simulate and synthesis half adder using vivado.
 # APPARATUS REQUIRED:
 vivado 2023.2 software.
 # PROCEDURE:
+```
 STEP:1 Start the vivado software, Select and Name the New project.
 STEP:2 Select the device family, device, package and speed.
 STEP:3 Select new source in the New Project and select Verilog Module as the Source type.
@@ -11,6 +12,7 @@ STEP:4 Type the File Name and module name and Click Next and then finish button.
 STEP:5 Select the run simulation and then run Behavioral Simulation in the Source Window and click the check syntax.
 STEP:6 Click the simulation to simulate the program and give the inputs and verify the outputs as per the truth table.
 STEP:7 compare the output with truth table.
+```
 # Truth Table
 ![image](https://github.com/RESMIRNAIR/HALF_ADDER/assets/154305926/fe672c28-5c6a-4355-b70f-b40bce63880d)
 # Circuit Diagram
