@@ -36,3 +36,4 @@ endmodule
 
 # RESULT:
 Thus the verilog program for half adder has been simulated and verified successfully.
+
