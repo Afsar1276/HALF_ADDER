@@ -32,6 +32,6 @@ and (carry,a,b);
 endmodule
 ```
 # OUTPUT:
-[image]![WhatsApp Image 2024-03-25 at 14 00 13_29a21409](https://github.com/Afsar1276/HALF_ADDER/assets/161407741/e1c44850-59d2-40e7-b2fb-f9c8defbcd8d)
+![image][WhatsApp Image 2024-03-25 at 14 00 13_29a21409](https://github.com/Afsar1276/HALF_ADDER/assets/161407741/e1c44850-59d2-40e7-b2fb-f9c8defbcd8d)
 # RESULT:
 Thus the verilog program for half adder has been simulated and verified successfully.
